@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-name="Beleza Verdadeira" tvg-logo="https://br.web.img2.acsta.net/pictures/22/05/09/19/18/4364019.jpg" ,01
 https://video.wixstatic.com/video/f99464_57ac0b8d47074fb581bc3024bfbb0d9f/720p/mp4/file.mp4
 #EXTINF:-1 tvg-name="Beleza Verdadeira" tvg-logo="https://br.web.img2.acsta.net/pictures/22/05/09/19/18/4364019.jpg" ,02
